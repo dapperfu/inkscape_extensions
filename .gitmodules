@@ -1,0 +1,3 @@
+[submodule "InkscapeLaserGCode"]
+	path = InkscapeLaserGCode
+	url = http://github.com/jed-frey/InkscapeLaserGCode.git
