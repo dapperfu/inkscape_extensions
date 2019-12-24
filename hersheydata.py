@@ -1,1 +1,0 @@
-EggBot/inkscape_driver/hersheydata.py

@@ -1,1 +1,0 @@
-EggBot/other/TSP-stipple/stipple/stipple.py
