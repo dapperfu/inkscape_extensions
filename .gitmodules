@@ -1,3 +1,12 @@
 [submodule "InkscapeLaserGCode"]
 	path = InkscapeLaserGCode
-	url = http://github.com/jed-frey/InkscapeLaserGCode.git
+	url = https://github.com/jed-frey/InkscapeLaserGCode.git
+[submodule "inkscape_axidraw"]
+	path = inkscape_axidraw
+	url = https://github.com/jed-frey/inkscape_axidraw.git
+[submodule "plotink"]
+	path = plotink
+	url = https://github.com/jed-frey/plotink.git
+[submodule "Eggbot"]
+	path = Eggbot
+	url = https://github.com/jed-frey/Eggbot.git
