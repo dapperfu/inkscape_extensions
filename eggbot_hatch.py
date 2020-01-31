@@ -1,1 +1,1 @@
-EggBot/inkscape_driver/eggbot_hatch.py
+Eggbot/inkscape_driver/eggbot_hatch.py

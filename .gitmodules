@@ -10,3 +10,6 @@
 [submodule "Eggbot"]
 	path = Eggbot
 	url = https://github.com/jed-frey/Eggbot.git
+[submodule "inkscape_HersheyText"]
+	path = inkscape_HersheyText
+	url = https://github.com/jed-frey/inkscape_HersheyText.git
