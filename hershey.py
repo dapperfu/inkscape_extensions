@@ -1,1 +1,0 @@
-inkscape_HersheyText/hershey.py
