@@ -1,15 +1,9 @@
 [submodule "InkscapeLaserGCode"]
-	path = InkscapeLaserGCode
+	path = inkscape_LaserGCode2
 	url = https://github.com/dapperfu/InkscapeLaserGCode.git
-[submodule "inkscape_axidraw"]
-	path = inkscape_axidraw
-	url = https://github.com/dapperfu/inkscape_axidraw.git
-[submodule "plotink"]
-	path = plotink
-	url = https://github.com/dapperfu/plotink.git
-[submodule "Eggbot"]
-	path = Eggbot
-	url = https://github.com/dapperfu/Eggbot.git
 [submodule "inkscape_HersheyText"]
 	path = inkscape_HersheyText
 	url = https://github.com/dapperfu/inkscape_HersheyText.git
+[submodule "inkscape_HatchFill"]
+	path = inkscape_HatchFill
+	url = https://github.com/dapperfu/inkscape_HatchFill.git
